@@ -1,0 +1,6 @@
+{
+  "name": "2D Action Game",
+  "description": "A classic 2D action platformer game with WASD controls, defeat enemies, collect coins, avoid obstacles, and finish stages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
